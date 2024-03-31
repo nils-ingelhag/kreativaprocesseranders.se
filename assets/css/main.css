@@ -2591,12 +2591,12 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background-color: #1f1815;
-		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/Anders.jpg");
-		background-position: top right,							right;
-		background-repeat: repeat,								no-repeat;
-		background-size: auto,								150%;
+		background-color: #a19083;
+		background-attachment:scroll;
+		background-image:url("../../images/Anders.jpg");
+		background-position:right;
+		background-repeat:no-repeat;
+		background-size:100%;
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
@@ -2606,6 +2606,11 @@ input, select, textarea {
 		top: 0;
 		width: 35%;
 	}
+ 
+
+	  
+	  
+	
 
 		#header > * {
 			-moz-flex-shrink: 0;
@@ -2997,7 +3002,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 6em 3em 3em 3em;
+				padding: 15em 3em 3em 3em;
 				width: 30%;
 			}
 
@@ -3057,7 +3062,7 @@ input, select, textarea {
 				background-position: top left, center center;
 				background-size: auto,		cover;
 				left: auto;
-				padding: 6em 4em;
+				padding: 9em 4em;
 				position: relative;
 				text-align: center;
 				top: auto;
@@ -3157,7 +3162,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 2.25em 1.5em;
+				padding: 6em 1.5em;
 			}
 
 				#header h1 {
@@ -3201,7 +3206,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 4.5em 1.5em;
+				padding: 5em 1.5em;
 			}
 
 				#header h1 br {
