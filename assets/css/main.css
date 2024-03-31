@@ -273,7 +273,7 @@ input, select, textarea {
 			width: 100%;
 		}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: 1200px) {
 
 			.container {
 				width: 100% !important;
@@ -1023,7 +1023,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: 1200px) {
 
 			.row {
 				display: flex;
@@ -2591,7 +2591,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background-color: #a19083;
+		background-color: #FFCC33;
 		background-attachment:scroll;
 		background-image:url("../../images/Anders.jpg");
 		background-position:right;
@@ -3041,7 +3041,7 @@ input, select, textarea {
 
 /* Medium */
 
-	@media screen and (max-width: 980px) {
+	@media screen and (max-width: 1200px) {
 
 		/* Basic */
 
